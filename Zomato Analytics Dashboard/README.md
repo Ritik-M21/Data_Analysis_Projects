@@ -9,7 +9,7 @@ The Zomato Analytics Dashboard aims to provide insights into food delivery perfo
 - Understand customer behavior and preferences.
 - Visualize data for quick decision-making.
 - Enhance operational efficiency using key performance indicators (KPIs).
-- 
+
 ## Key Performance Indicators (KPIs)
 - Total Orders: Count of orders placed within a selected time frame.
 - Average Delivery Time: Average time taken (in minutes) for order delivery.
