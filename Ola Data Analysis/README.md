@@ -17,5 +17,6 @@
 
 ![image](https://github.com/user-attachments/assets/72f1e330-2064-4530-b2a9-9c4dbf8f7039)
 
+![image](https://github.com/user-attachments/assets/a4d29951-d4fb-4b1c-8d6b-ea700330ad35)
 
 ## Insights
