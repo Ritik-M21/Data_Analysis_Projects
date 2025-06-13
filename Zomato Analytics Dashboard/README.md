@@ -18,4 +18,4 @@ The Zomato Analytics Dashboard aims to provide insights into food delivery perfo
 - Discount Utilization Rate: Percentage of orders with discounts applied.
 
 ## Dashboard
-https://github.com/Ritik-M21/Data_Analysis_Projects/blob/main/Zomato%20Analytics%20Dashboard/dashboard.png
+Zomato Analytics Dashboard/dashboard.png
