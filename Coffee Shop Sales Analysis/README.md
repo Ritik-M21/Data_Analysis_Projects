@@ -24,6 +24,14 @@ In the fast-paced food and beverage industry, understanding customer behavior, p
 
 ## Dashboard
 ![image](https://github.com/Ritik-M21/Data_Analysis_Projects/blob/main/Coffee%20Shop%20Sales%20Analysis/Dashboard.png?raw=true)
+
 ## Insights
-- 
+- 📉 **Sales Decline:** Total sales in March 2023 were **$99K**, showing a **29.8% decline** compared to February.
+- 🏪 **Top Locations:** Stores like **Hell’s Kitchen**, **Lower Manhattan**, and **Astoria** had the highest sales and showed positive month-over-month growth.
+- ☕ **Best-Selling Products:** **Barista Espresso**, **Brewed Chai Tea**, and **Hot Chocolate** were the top-performing items by revenue.
+- 📅 **Weekday Preference:** **74% of total sales** came from **weekdays**, suggesting customer visits peak during workdays.
+- ⏰ **Peak Hours:** Sales were highest between **8 AM – 12 PM**, especially on weekdays, aligning with morning routines.
+- 📊 **Product Category Trends:** **Coffee** and **Tea** contributed the most to overall revenue, showing strong and consistent demand.
+
+
 
