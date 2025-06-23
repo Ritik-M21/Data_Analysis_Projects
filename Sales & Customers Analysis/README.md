@@ -23,13 +23,12 @@ The **Customer and Sales Dashboards** provide a comprehensive overview of the bu
    - **Customer Distribution by Number of Orders:** Shows how many customers placed how many orders. Highlights customer frequency segments.
    - **Top 10 Customers by Profit:** Identifies customers who contributed most to profit. Useful for VIP treatment, personalized campaigns, or loyalty rewards.
                          
-- **Sales Dashboard:**
-
-* **Total Sales:** \$733K (▲20.4% vs PY)
-* **Total Profit:** \$93K (▲12.5% vs PY)
-* **Total Quantity Sold:** \$12K (▲26.8% vs PY)
-* **Sales & Profit by Subcategory**
-* **Sales & Profit Trends Over Time**
+2. **Sales Dashboard:**
+   - **Total Sales:** Total revenue from all products sold. Key indicator of business growth and success.
+   - **Total Profit:** Net gain after subtracting costs. A rise in profit indicates better margins or efficient cost control.
+   - **Total Quantity Sold:** Total items or units sold. Shows demand volume. A higher quantity with lower profit can indicate margin issues.
+   - **Sales & Profit by Subcategory:** Breaks down sales/profit across product types (e.g., Phones, Binders). Helps identify which products are profitable vs loss-making.
+   - **Sales & Profit Trends Over Time:** Tracks weekly sales and profit. Helps identify seasonality, spikes, or downward trends. Important for forecasting and planning.           
 
 ## Dashboard
 **Customer Dashboard**
