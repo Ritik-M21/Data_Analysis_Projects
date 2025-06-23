@@ -16,14 +16,12 @@ The **Customer and Sales Dashboards** provide a comprehensive overview of the bu
    * Evaluate sales and profit trends over time to determine peak and low-performing periods.
 
 ## Key Performance Indicators (KPIs)
-
-- **Customer Dashboard:**
-
-    * **Total Customers:** 693 (▲8.6% vs PY)
-* **Total Sales per Customer:** \$1,058 (▲10.8% vs PY)
-* **Total Orders:** 1,687 (▲28.3% vs PY)
-* **Customer Distribution by No. of Orders**
-* **Top 10 Customers by Profit**
+1. **Customer Dashboard:**
+   **1. Total Customers**                           | 693              | ▲ 8.6%           | Measures the number of unique customers who purchased in 2023. Growth indicates customer acquisition success.                                                                 |
+| **2. Total Sales per Customer**                  | \$1,058          | ▲ 10.8%          | Average revenue generated per customer. Indicates how much each customer contributes to overall revenue. A higher value reflects better monetization per user.                |
+| **3. Total Orders**                              | 1,687            | ▲ 28.3%          | Total number of purchases made. A large increase suggests more frequent buying behavior or broader engagement.                                                                |
+| **4. Customer Distribution by Number of Orders** | -                | -                | Shows how many customers placed how many orders. Highlights customer frequency segments (e.g., 200 customers placed only 1 order). Can be used to build retention strategies. |
+| **5. Top 10 Customers by Profit**                | -                | -                | Identifies customers who contributed most to profit. Useful for VIP treatment, personalized campaigns, or loyalty rewards.                                                    |
 
 - **Sales Dashboard:**
 
