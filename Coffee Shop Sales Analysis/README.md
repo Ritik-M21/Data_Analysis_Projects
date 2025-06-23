@@ -11,15 +11,15 @@ In the fast-paced food and beverage industry, understanding customer behavior, p
 - Enhancing report interactivity through tooltips and time-based filters
 
 ## Key Performance Indicators (KPIs)
-✅ Total Sales	Total revenue generated within the selected time period (e.g., $99K in March 2023)
-✅ Total Orders	Total number of transactions/orders placed (e.g., 21K orders)
-✅ Total Quantity Sold	Total number of items sold (e.g., 30K items)
-✅ Sales Growth % (MoM)	Month-over-Month sales growth percentage (e.g., -29.8% vs last month)
-✅ Top-Selling Products	List of highest revenue-generating products (e.g., Barista Espresso, Brewed Chai Tea)
-✅ Sales by Day/Weekday	Comparison of sales on weekdays vs weekends
-✅ Sales by Hour	Identification of peak sales hours across the week
-✅ Sales by Store Location	Comparison of performance between different store branches (e.g., Hell’s Kitchen, Astoria)
-✅ Average Daily Sales	Daily average revenue (e.g., Avg = $3,188/day shown in trend chart)
+- **Total Sales:**	Total revenue generated within the selected time period.
+- **Total Orders:**	Total number of transactions/orders placed.
+- **Total Quantity Sold:**	Total number of items sold.
+- **Sales Growth % (MoM):**	Month-over-Month sales growth percentage.
+- **Top-Selling Products:**	List of highest revenue-generating products.
+- **Sales by Day/Weekday:**	Comparison of sales on weekdays vs weekends.
+- **Sales by Hour:**	Identification of peak sales hours across the week.
+- **Sales by Store Location:**	Comparison of performance between different store branches.
+- **Average Daily Sales:**	Daily average revenue.
 
 
 ## Dashboard
