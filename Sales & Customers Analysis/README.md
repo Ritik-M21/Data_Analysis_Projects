@@ -1,24 +1,60 @@
 # Sales & Customers Analysis
 
 ## Introduction
-The Zomato Analytics Dashboard aims to provide insights into food delivery performance, restaurant reviews, and customer preferences. It will help stakeholders identify trends, improve delivery operations, and enhance customer satisfaction.
 
-## Objectives
-- Track order and delivery performance.
-- Monitor restaurant reviews and ratings.
-- Understand customer behavior and preferences.
-- Visualize data for quick decision-making.
-- Enhance operational efficiency using key performance indicators (KPIs).
+The **Customer and Sales Dashboards** provide a comprehensive overview of the business performance for the year 2023. These dashboards analyze customer behavior, order distribution, sales trends, and profitability, comparing metrics with the previous year (2022). Visual representations help identify growth areas and underperforming segments, enabling data-driven decisions.
+
+---
+
+## Objective
+1. **Customer Dashboard:**
+   * Track the total number of customers, orders, and average sales per customer.
+   * Identify high-value customers contributing most to profits.
+   * Analyze customer order frequency distribution.
+
+2. **Sales Dashboard:**
+   * Monitor total sales, profit, and quantity sold throughout the year.
+   * Compare 2023 sales and profit by subcategory against 2022.
+   * Evaluate sales and profit trends over time to determine peak and low-performing periods.
 
 ## Key Performance Indicators (KPIs)
-- **Total Orders:** Count of orders placed within a selected time frame.
-- **Average Delivery Time:** Average time taken (in minutes) for order delivery.
-- **Average Order Value (AOV):** Total revenue divided by the number of orders.
-- **Customer Satisfaction (Rating):** Average customer rating (scale of 1 to 5).
-- **Discount Utilization Rate:** Percentage of orders with discounts applied.
+
+- **Customer Dashboard:**
+
+* **Total Customers:** 693 (▲8.6% vs PY)
+* **Total Sales per Customer:** \$1,058 (▲10.8% vs PY)
+* **Total Orders:** 1,687 (▲28.3% vs PY)
+* **Customer Distribution by No. of Orders**
+* **Top 10 Customers by Profit**
+
+- **Sales Dashboard:**
+
+* **Total Sales:** \$733K (▲20.4% vs PY)
+* **Total Profit:** \$93K (▲12.5% vs PY)
+* **Total Quantity Sold:** \$12K (▲26.8% vs PY)
+* **Sales & Profit by Subcategory**
+* **Sales & Profit Trends Over Time**
 
 ## Dashboard
 ![image](https://github.com/user-attachments/assets/e657a5c4-9931-4db0-8ae9-f84fbcb3d269)
 
-## Insights
-- 
+## Insights 
+
+#### **From Customer Dashboard:**
+
+1. There is an **8.6% increase in customers** compared to the previous year.
+2. **Sales per customer** has increased by **10.8%**, showing higher individual spending.
+3. **Order volume** grew by **28.3%**,  indicating increased engagement or demand.
+4. Most customers place **1 or 2 orders**, suggesting opportunities to improve customer retention or upselling.
+5. **Top customer (Raymond Buch)** contributed \$6,781 profit from \$14,203 in sales.
+6. **High-profit customers** typically place between 2–5 orders, which is a target range for loyalty campaigns.
+
+#### **From Sales Dashboard:**
+
+1. **Overall sales rose by 20.4%**, while **profits increased by 12.5%**, reflecting positive growth.
+2. **Phones, Chairs, and Binders** were the top-performing categories in sales.
+3. **Accessories and Machines** incurred **losses**, highlighting underperforming or cost-heavy categories.
+4. **Quantity sold increased by 26.8%**, suggesting successful marketing or sales strategies.
+5. The **average weekly sales** hover around **\$14K**, and **average weekly profit** is around **\$2K**.
+6. Spikes in sales/profit indicate **seasonality or successful campaigns**, particularly in weeks 45–50.
+
