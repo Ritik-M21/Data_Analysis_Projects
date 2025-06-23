@@ -4,8 +4,6 @@
 
 The **Customer and Sales Dashboards** provide a comprehensive overview of the business performance for the year 2023. These dashboards analyze customer behavior, order distribution, sales trends, and profitability, comparing metrics with the previous year (2022). Visual representations help identify growth areas and underperforming segments, enabling data-driven decisions.
 
----
-
 ## Objective
 1. **Customer Dashboard:**
    * Track the total number of customers, orders, and average sales per customer.
