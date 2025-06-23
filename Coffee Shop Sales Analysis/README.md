@@ -18,8 +18,7 @@ The Zomato Analytics Dashboard aims to provide insights into food delivery perfo
 - **Discount Utilization Rate:** Percentage of orders with discounts applied.
 
 ## Dashboard
-https://github.com/Ritik-M21/Data_Analysis_Projects/blob/main/Coffee%20Shop%20Sales%20Analysis/Dashboard.png?raw=true
-
+![image](https://github.com/Ritik-M21/Data_Analysis_Projects/blob/main/Coffee%20Shop%20Sales%20Analysis/Dashboard.png?raw=true)
 ## Insights
 - 
 
