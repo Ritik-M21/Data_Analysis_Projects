@@ -1,14 +1,14 @@
-# Zomato Analytics Dashboard
+# Coffee Shop Sales Analysis
 
 ## Introduction
 In the fast-paced food and beverage industry, understanding customer behavior, product performance, and sales patterns is critical to making data-driven business decisions. This Power BI project analyzes over 100,000 rows of transactional data from a coffee shop chain to uncover meaningful insights related to sales trends, product demand, and operational performance.
 
 ## Objectives
-- Track order and delivery performance.
-- Monitor restaurant reviews and ratings.
-- Understand customer behavior and preferences.
-- Visualize data for quick decision-making.
-- Enhance operational efficiency using key performance indicators (KPIs).
+- Identifying the top-performing products, categories, and store locations
+- Measuring monthly sales growth, total orders, and quantity sold
+- Analyzing sales trends over time and understanding peak sales hours
+- Comparing weekday vs weekend sales patterns
+- Enhancing report interactivity through tooltips and time-based filters
 
 ## Key Performance Indicators (KPIs)
 - **Total Orders:** Count of orders placed within a selected time frame.
