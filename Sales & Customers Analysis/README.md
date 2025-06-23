@@ -36,7 +36,9 @@ The **Customer and Sales Dashboards** provide a comprehensive overview of the bu
 * **Sales & Profit Trends Over Time**
 
 ## Dashboard
-![image](https://github.com/user-attachments/assets/e657a5c4-9931-4db0-8ae9-f84fbcb3d269)
+![image](https://github.com/Ritik-M21/Data_Analysis_Projects/blob/main/Sales%20&%20Customers%20Analysis/customer%20dashboard.png?raw=true)
+
+![image]()
 
 ## Insights 
 
