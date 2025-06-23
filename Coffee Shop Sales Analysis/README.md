@@ -1,7 +1,7 @@
 # Zomato Analytics Dashboard
 
 ## Introduction
-The Zomato Analytics Dashboard aims to provide insights into food delivery performance, restaurant reviews, and customer preferences. It will help stakeholders identify trends, improve delivery operations, and enhance customer satisfaction.
+In the fast-paced food and beverage industry, understanding customer behavior, product performance, and sales patterns is critical to making data-driven business decisions. This Power BI project analyzes over 100,000 rows of transactional data from a coffee shop chain to uncover meaningful insights related to sales trends, product demand, and operational performance.
 
 ## Objectives
 - Track order and delivery performance.
