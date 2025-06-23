@@ -19,7 +19,7 @@ The **Customer and Sales Dashboards** provide a comprehensive overview of the bu
 
 - **Customer Dashboard:**
 
-* **Total Customers:** 693 (▲8.6% vs PY)
+    * **Total Customers:** 693 (▲8.6% vs PY)
 * **Total Sales per Customer:** \$1,058 (▲10.8% vs PY)
 * **Total Orders:** 1,687 (▲28.3% vs PY)
 * **Customer Distribution by No. of Orders**
