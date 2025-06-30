@@ -10,7 +10,7 @@
 
 
 ## Dashboard
-![image](https://github.com/Ritik-M21/Data_Analysis_Projects/blob/main/Coffee%20Shop%20Sales%20Analysis/Dashboard.png?raw=true)
+![image](https://github.com/Ritik-M21/Data_Analysis_Projects/blob/main/Blinkit%20Data%20Analysis/dashboard.png?raw=true)
 
 ## Insights
 
