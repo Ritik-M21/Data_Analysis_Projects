@@ -1,7 +1,7 @@
-# Coffee Shop Sales Analysis
+# Blinkit Data Analysis
 
 ## Introduction
-
+This project presents an interactive and insightful Sales Performance Dashboard for Blinkit, created using Power BI. The dashboard is designed to analyze and visualize key metrics such as total sales, item types, outlet performance, and customer ratings across multiple dimensions like outlet size, type, tier, and fat content.
 
 ## Objectives
 
