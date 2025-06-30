@@ -10,7 +10,8 @@ This project presents an interactive and insightful Sales Performance Dashboard 
 - Evaluate how the age or type of outlet establishment influences total sales.
 - Analyze the correlation between outlet size and total sales.
 - Assess the geographic distribution of sales across different locations.
-- Provide 
+- Provide a comperhensive view of all key metrics (Total sales, average sales, number of items, average rating) broken down by different outlet types.
+  
 ## Key Performance Indicators (KPIs)
 - **Total Sales:** The overall revenue generated from all items sold.
 - **Average Sales:** The average revenue per sale.
