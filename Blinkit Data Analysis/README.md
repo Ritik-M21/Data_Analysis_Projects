@@ -22,7 +22,9 @@ This project presents an interactive and insightful Sales Performance Dashboard 
 ![image](https://github.com/Ritik-M21/Data_Analysis_Projects/blob/main/Blinkit%20Data%20Analysis/dashboard.png?raw=true)
 
 ## Insights
-
+- **KPI Insights:** Total sales reached $1.2M, with a 15% increase from last year.
+- **Top/Bottom Performer:** Fruits & vegetables type items were always been top sales in all year generated 180K while seafood type items were bottom sales generated 10K. Tier 3 outlets generated $472K, contributing to 39% of overall sales.
+- **
 
 
 
