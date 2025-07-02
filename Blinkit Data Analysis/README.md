@@ -23,8 +23,8 @@ This project presents an interactive and insightful Sales Performance Dashboard 
 
 ## Insights
 - **KPI Insights:** Total sales reached $1.2M, with a 15% increase from last year.
-- **Top/Bottom Performer:** Fruits & vegetables type items were always been top sales in all year generated 180K while seafood type items were bottom sales generated 10K. Tier 3 outlets generated $472K, contributing to 39% of overall sales.
-- **
-
-
+- **Top/Bottom Performer:** Fruits & vegetables type items were always been top sales in all year generated $180K while seafood type items were bottom sales generated $10K. Tier 3 outlets generated $472K, contributing to 39% of overall sales.
+- **Trend over Time:** Sales peaked in 2019 at $205K, then declined steadily post 2020.
+- **Segment Analysis:** Regular fat content items contributed $776K, nearly 1.8x more than Low Fat items. In terms of Outlet size, medium size outlet generated highest revenue of $507K contributing 42% of overall sales.
+- **Category Contribution:** Supermarket Type1 accounted for 65% of total sales with $787K.
 
