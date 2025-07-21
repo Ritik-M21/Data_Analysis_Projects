@@ -1,4 +1,4 @@
-## Regional Sales Analysis
+# Regional Sales Analysis
 
 ## Introduction
 
