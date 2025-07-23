@@ -13,17 +13,11 @@ Sales teams often lack a clear, data-driven understanding of regional performanc
 - **Jupyter Notebook** – Analysis environment
 
 ## Objectives
+- Performing data cleaning and EDA 
 - Understanding revenue and profit distribution across **products, channels, and regions**
 - Identifying **seasonal trends**, **outliers**, and performance against budgets
 - Reducing **concentration risk** and improving **market diversification**
-- Performing data cleaning and EDA 
 
-![image](https://github.com/Ritik-M21/Data_Analysis_Projects/blob/main/Regional%20Sales%20Analysis/Regional%20Sales%20Analysis.ipynb?raw=true)
-## Key Performance Indicators (KPIs)
-
-
-## Dashboard
-![image]()
 
 ## Insights
 
