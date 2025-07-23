@@ -18,6 +18,7 @@ Sales teams often lack a clear, data-driven understanding of regional performanc
 - Identifying **seasonal trends**, **outliers**, and performance against budgets
 - Reducing **concentration risk** and improving **market diversification**
 
+https://github.com/Ritik-M21/Data_Analysis_Projects/blob/main/Regional%20Sales%20Analysis/Regional%20Sales%20Analysis.ipynb
 
 ## Insights
 - **Monthly Revenue Cycle:** Revenue stays stable between ≈$23M-26.5M across 2014–2017, with no consistent seasonal spikes. Sharpest drop (≈21.2M) occurs in early 2017, indicating a possible one-time disruption.
