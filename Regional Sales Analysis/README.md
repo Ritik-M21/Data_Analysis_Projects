@@ -18,6 +18,7 @@ Sales teams often lack a clear, data-driven understanding of regional performanc
 - Reducing **concentration risk** and improving **market diversification**
 - Performing data cleaning and EDA 
 
+![image](https://github.com/Ritik-M21/Data_Analysis_Projects/blob/main/Regional%20Sales%20Analysis/Regional%20Sales%20Analysis.ipynb)
 ## Key Performance Indicators (KPIs)
 
 
