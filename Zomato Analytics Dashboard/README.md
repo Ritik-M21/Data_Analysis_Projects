@@ -21,4 +21,10 @@ The Zomato Analytics Dashboard aims to provide insights into food delivery perfo
 ![image](https://github.com/user-attachments/assets/e657a5c4-9931-4db0-8ae9-f84fbcb3d269)
 
 ## Insights
-- 
+- Total Orders: 10K, with peak in 2024 (5.1K orders) — followed by a sharp decline in 2025 (only 0.2K orders).
+- Top Performing Restaurant: Johnson PLC with 21K order amount, followed by Smith Group (15K).
+- Cuisine Popularity: Thai cuisine leads with 1,470 orders, followed closely by American (1,459) and Italian (1,494).
+- Customer Ratings: Evenly distributed across all ratings (20% each for ratings 1–5), indicating mixed satisfaction levels.
+- Average Delivery Time: 65 minutes — slowest delivery in Jake McKenzie location (740 mins total time), fastest in North Timoth (~428 mins).
+- Customer Satisfaction Score: 3/5 — with room for improvement.
+- Average Order Value: ₹1K, indicating a stable pricing trend across restaurants.
