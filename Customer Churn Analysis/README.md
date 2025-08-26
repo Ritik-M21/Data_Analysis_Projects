@@ -12,18 +12,14 @@ What are the main factors contributing to customer churn?
 How can business stakeholders monitor churn trends in real-time?
 The goal of this project is to:
 Clean and prepare raw customer data using SQL.
-
 Build interactive Power BI dashboards to visualize churn metrics.
-
 Provide actionable insights that help reduce churn and improve customer retention.
 
-🛠️ Tech Stack
+## Tech Stack
+**SQL** (MySQL) → Data Cleaning, Transformation, Aggregations
+**Power BI** → Dashboard creation & visualization
+**Excel/CSV** → Kaggle
 
-SQL (T-SQL / MySQL / PostgreSQL) → Data Cleaning, Transformation, Aggregations
-
-Power BI → Dashboard creation & visualization
-
-Excel/CSV → Data source (if applicable)
 ## Objectives
 
   
