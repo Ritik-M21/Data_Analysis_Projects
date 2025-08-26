@@ -20,9 +20,14 @@ Key business questions:
 - Clean and prepare raw customer data using SQL.
 - Build interactive Power BI dashboards to visualize churn metrics.
 - Provide actionable insights that help reduce churn and improve customer retention.
+
+## Data Cleaning and EDA
   
 ## Key Performance Indicators (KPIs)
-
+- Total Customers
+- New Joiners
+- Total Churn
+- Churn Rate
 
 ## Dashboard
 ![image]()
