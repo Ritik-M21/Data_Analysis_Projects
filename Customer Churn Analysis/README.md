@@ -16,12 +16,14 @@ Build interactive Power BI dashboards to visualize churn metrics.
 Provide actionable insights that help reduce churn and improve customer retention.
 
 ## Tech Stack
-**SQL** (MySQL) → Data Cleaning, Transformation, Aggregations
-**Power BI** → Dashboard creation & visualization
-**Excel/CSV** → Kaggle
+- **SQL** (MySQL) → Data Cleaning, Transformation, Aggregations
+- **Power BI** → Dashboard creation & visualization
+- **Excel/CSV** → Kaggle
 
 ## Objectives
-
+- Clean and prepare raw customer data using SQL.
+- Build interactive Power BI dashboards to visualize churn metrics.
+- Provide actionable insights that help reduce churn and improve customer retention.
   
 ## Key Performance Indicators (KPIs)
 
