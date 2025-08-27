@@ -33,6 +33,9 @@ Key business questions:
 ### Replacing null values
 ![image](https://github.com/Ritik-M21/Data_Analysis_Projects/blob/main/Customer%20Churn%20Analysis/SQL%20file/replacing%20null.png?raw=true)
 
+### EDA
+![image](https://github.com/Ritik-M21/Data_Analysis_Projects/blob/main/Customer%20Churn%20Analysis/SQL%20file/EDA.png?raw=true)
+
 ## Key Performance Indicators (KPIs)
 - Total Customers
 - New Joiners
