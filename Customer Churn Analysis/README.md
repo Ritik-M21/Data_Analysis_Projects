@@ -30,7 +30,7 @@ Key business questions:
 - Churn Rate
 
 ## Dashboard
-![image]()
+![image](https://github.com/Ritik-M21/Data_Analysis_Projects/blob/main/Customer%20Churn%20Analysis/Dashboard.png?raw=true)
 
 ## Insights
 
