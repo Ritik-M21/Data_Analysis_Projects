@@ -22,7 +22,7 @@ Key business questions:
 - Provide actionable insights that help reduce churn and improve customer retention.
 
 ## Data Cleaning and EDA
-Checking null values
+### Checking null values
 ![image](https://github.com/Ritik-M21/Data_Analysis_Projects/blob/main/Customer%20Churn%20Analysis/SQL%20file/checking%20null.png?raw=true)
 - **Output of above query are:**
   - Value deal: 3548
