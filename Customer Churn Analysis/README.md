@@ -22,7 +22,9 @@ Key business questions:
 - Provide actionable insights that help reduce churn and improve customer retention.
 
 ## Data Cleaning and EDA
-  
+Checkong null values
+![image](https://github.com/Ritik-M21/Data_Analysis_Projects/blob/main/Customer%20Churn%20Analysis/SQL%20file/checking%20null.png?raw=true)
+
 ## Key Performance Indicators (KPIs)
 - Total Customers
 - New Joiners
