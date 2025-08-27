@@ -37,4 +37,4 @@ Key business questions:
 - Above 50 age group accounted fro 42% of total customer.
 - Total customers and churn rate diverged the most when the tenure group was >=24 months when customers were 2087 higher than churn rate.
 - Major churn caused due to price range between 50-100 and better services provided by competitors 
-
+- In case of provided services, unlimited data services has highest churn rate of 80% while device protection plan has lowest churn rate of 28%. 
