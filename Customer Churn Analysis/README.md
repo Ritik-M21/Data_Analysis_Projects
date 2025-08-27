@@ -29,8 +29,9 @@ Key business questions:
   - Multiple lines: 622
   - Internet type, Online security, Online backup, Device protection plan, Premium support, Streaming tv, streaming music, Streaming movies, Unlimited data: 1390
   - Churn category, Churn reason: 4686
-### 
-![image](https://github.com/Ritik-M21/Data_Analysis_Projects/blob/main/Customer%20Churn%20Analysis/SQL%20file/checking%20null.png?raw=true)
+
+### Replacing null values
+![image](https://github.com/Ritik-M21/Data_Analysis_Projects/blob/main/Customer%20Churn%20Analysis/SQL%20file/replacing%20null.png?raw=true)
 
 ## Key Performance Indicators (KPIs)
 - Total Customers
