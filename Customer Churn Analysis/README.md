@@ -14,7 +14,7 @@ Key business questions:
 ## Tech Stack
 - **SQL** (MySQL) → Data Cleaning, Transformation, Aggregations
 - **Power BI** → Dashboard creation & visualization
-- **Excel/CSV** → Kaggle
+- **Sheet/CSV** → Kaggle
 
 ## Objectives
 - Clean and prepare raw customer data using SQL.
