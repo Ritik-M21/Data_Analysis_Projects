@@ -33,5 +33,8 @@ Key business questions:
 ![image](https://github.com/Ritik-M21/Data_Analysis_Projects/blob/main/Customer%20Churn%20Analysis/Dashboard.png?raw=true)
 
 ## Insights
-
+- Total churn for female(1111) was higher than male(621).
+- Above 50 age group accounted fro 42% of total customer.
+- Total customers and churn rate diverged the most when the tenure group was >=24 months when customers were 2087 higher than churn rate.
+- Major churn caused due to price range between 50-100 and better services provided by competitors 
 
