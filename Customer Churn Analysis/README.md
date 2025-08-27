@@ -24,11 +24,11 @@ Key business questions:
 ## Data Cleaning and EDA
 Checkong null values
 ![image](https://github.com/Ritik-M21/Data_Analysis_Projects/blob/main/Customer%20Churn%20Analysis/SQL%20file/checking%20null.png?raw=true)
-**Output of above query are:**
-Value deal: 3548
-Multiple lines: 622
-Internet type, Online security, Online backup, Device protection plan, Premium support, Streaming tv, streaming music, Streaming movies, Unlimited data: 1390
-Churn category, Churn reason: 4686
+- **Output of above query are:**
+- Value deal: 3548
+- Multiple lines: 622
+- Internet type, Online security, Online backup, Device protection plan, Premium support, Streaming tv, streaming music, Streaming movies, Unlimited data: 1390
+- Churn category, Churn reason: 4686
 
 ## Key Performance Indicators (KPIs)
 - Total Customers
