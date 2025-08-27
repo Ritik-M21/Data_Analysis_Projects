@@ -36,7 +36,7 @@ Key business questions:
 ### EDA
 ![image](https://github.com/Ritik-M21/Data_Analysis_Projects/blob/main/Customer%20Churn%20Analysis/SQL%20file/EDA.png?raw=true)
 
-Output of above query
+- Output of above query:
 ![image](https://github.com/Ritik-M21/Data_Analysis_Projects/blob/main/Customer%20Churn%20Analysis/SQL%20file/eda%20output.png?raw=true)
 
 ## Key Performance Indicators (KPIs)
